@@ -5,4 +5,4 @@ I used several different evolutionary algorithms (especially genetic algorithm, 
  
 One must replace the pybrain/optimization/poplationbased/ga.py file by the one that appears here. It's not quite a good way to do things but I did it just like this. Then, for example, by calling Tetris_display().display(bot,b9) you can see a tetris agent trained by the (improved) bat algorithm playing the game. (Tetris_display from tetris/tetris_AI/tetris_evalu.py, bot from tetris/tetris_AI/tetris_bot.py and b9 from tetris/tetris_training/tetris_training_functions.py)  
 
-Beside, I picked up several online open source projects as the base of the different parts of my implementations.
+Besides, I picked up several online open source projects as the base of the different parts of my implementations.
