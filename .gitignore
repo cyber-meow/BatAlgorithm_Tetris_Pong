@@ -1,3 +1,18 @@
+
+documents/
+old/
+graph/
+resultat/
+test/
+TIPE_presentation/
+TIPE_rapport/
+*.txt
+*.pdf
+*.docx
+pour_finir.py
+tetris.py
+tetris.py.bak
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
